@@ -1,0 +1,50 @@
+body {
+  background: #fef6c5;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: darkgreen;
+  font-family:cursive;
+}
+h2 {
+  font-weight: bold;
+  color: darkgreen;
+  font-family:cursive;
+}
+
+h6{
+  font-weight: 100
+}
+img{
+  width: 300px;
+  align-items:center;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #800029;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #520820;
+}
